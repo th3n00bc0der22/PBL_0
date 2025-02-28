@@ -1,0 +1,318 @@
+{
+    "produtos": [
+        {
+            "categoria": "Eletr\u00f4nicos",
+            "nome": "Smartphone XYZ",
+            "estado": "Novo",
+            "valor": 1999.99,
+            "loja": "TechStore",
+            "qtd": 0
+        },
+        {
+            "categoria": "Eletr\u00f4nicos",
+            "nome": "Notebook Ultra",
+            "estado": "Novo",
+            "valor": 3499.0,
+            "loja": "CompStore",
+            "qtd": 0
+        },
+        {
+            "categoria": "Eletr\u00f4nicos",
+            "nome": "Fone de Ouvido Bluetooth",
+            "estado": "Usado",
+            "valor": 150.0,
+            "loja": "AudioWorld",
+            "qtd": 10
+        },
+        {
+            "categoria": "Moda e Acess\u00f3rios",
+            "nome": "T\u00eanis Esportivo",
+            "estado": "Novo",
+            "valor": 299.99,
+            "loja": "FashionHub",
+            "qtd": 0
+        },
+        {
+            "categoria": "Moda e Acess\u00f3rios",
+            "nome": "Bolsa de Couro",
+            "estado": "Novo",
+            "valor": 499.0,
+            "loja": "StyleStore",
+            "qtd": 7
+        },
+        {
+            "categoria": "Casa e Decora\u00e7\u00e3o",
+            "nome": "Sof\u00e1 3 Lugares",
+            "estado": "Usado",
+            "valor": 1200.0,
+            "loja": "HomeDecor",
+            "qtd": 10
+        },
+        {
+            "categoria": "Casa e Decora\u00e7\u00e3o",
+            "nome": "Lumin\u00e1ria Moderna",
+            "estado": "Novo",
+            "valor": 200.0,
+            "loja": "DecorCenter",
+            "qtd": 9
+        },
+        {
+            "categoria": "Beleza e Sa\u00fade",
+            "nome": "Kit de Maquiagem",
+            "estado": "Novo",
+            "valor": 150.0,
+            "loja": "BeautyBox",
+            "qtd": 10
+        },
+        {
+            "categoria": "Beleza e Sa\u00fade",
+            "nome": "Perfume Exclusivo",
+            "estado": "Novo",
+            "valor": 250.0,
+            "loja": "FragranceStore",
+            "qtd": 10
+        },
+        {
+            "categoria": "Alimentos e Bebidas",
+            "nome": "Cesta Gourmet",
+            "estado": "Novo",
+            "valor": 99.9,
+            "loja": "GourmetMarket",
+            "qtd": 10
+        },
+        {
+            "categoria": "Alimentos e Bebidas",
+            "nome": "Caf\u00e9 Premium 500g",
+            "estado": "Novo",
+            "valor": 39.9,
+            "loja": "CoffeeCorner",
+            "qtd": 10
+        },
+        {
+            "categoria": "Esportes e Lazer",
+            "nome": "Bicicleta de Montanha",
+            "estado": "Novo",
+            "valor": 1500.0,
+            "loja": "SportZone",
+            "qtd": 10
+        },
+        {
+            "categoria": "Esportes e Lazer",
+            "nome": "Tapete de Yoga",
+            "estado": "Novo",
+            "valor": 89.9,
+            "loja": "FitnessStore",
+            "qtd": 10
+        },
+        {
+            "categoria": "Livros, Papelaria e Colecion\u00e1veis",
+            "nome": "Cole\u00e7\u00e3o de Livros Cl\u00e1ssicos",
+            "estado": "Novo",
+            "valor": 299.9,
+            "loja": "BookWorld",
+            "qtd": 10
+        },
+        {
+            "categoria": "Livros, Papelaria e Colecion\u00e1veis",
+            "nome": "Kit de Canetas de Luxo",
+            "estado": "Novo",
+            "valor": 149.99,
+            "loja": "StationeryPlus",
+            "qtd": 10
+        },
+        {
+            "categoria": "Automotivo",
+            "nome": "Pneu para Carro",
+            "estado": "Novo",
+            "valor": 399.9,
+            "loja": "AutoParts",
+            "qtd": 10
+        },
+        {
+            "categoria": "Automotivo",
+            "nome": "Acess\u00f3rios para Carro",
+            "estado": "Novo",
+            "valor": 59.9,
+            "loja": "CarStore",
+            "qtd": 10
+        },
+        {
+            "categoria": "Beb\u00eas e Crian\u00e7as",
+            "nome": "Carrinho de Beb\u00ea",
+            "estado": "Novo",
+            "valor": 799.99,
+            "loja": "KidsCorner",
+            "qtd": 10
+        },
+        {
+            "categoria": "Beb\u00eas e Crian\u00e7as",
+            "nome": "Brinquedo Educativo",
+            "estado": "Novo",
+            "valor": 59.9,
+            "loja": "ToyWorld",
+            "qtd": 10
+        },
+        {
+            "categoria": "Servi\u00e7os e Assinaturas",
+            "nome": "Assinatura de Streaming",
+            "estado": "Novo",
+            "valor": 29.9,
+            "loja": "MediaService",
+            "qtd": 10
+        },
+        {
+            "categoria": "Servi\u00e7os e Assinaturas",
+            "nome": "Curso Online de Programa\u00e7\u00e3o",
+            "estado": "Novo",
+            "valor": 199.9,
+            "loja": "EduPlatform",
+            "qtd": 10
+        },
+        {
+            "categoria": "Esportes e Lazer",
+            "nome": "prdf",
+            "estado": "nobo",
+            "valor": "900",
+            "loja": "loj",
+            "qtd": "9"
+        }
+    ],
+    "usuarios": [
+        {
+            "nome": "bruno",
+            "email": "email",
+            "senha": "senha",
+            "regiao": "brasil",
+            "saldo": 1500,
+            "tipousuar": "cliente",
+            "codigo": "123456",
+            "compras": [
+                {
+                    "categoria": "Eletr\u00f4nicos",
+                    "nome": "Smartphone XYZ",
+                    "estado": "Novo",
+                    "valor": 1999.99,
+                    "loja": "TechStore",
+                    "qtd": 0
+                }
+            ],
+            "carrinho": [],
+            "listadesejos": []
+        },
+        {
+            "nome": "leth",
+            "email": "leth",
+            "senha": "senha",
+            "regiao": "brasil",
+            "saldo": 1500,
+            "tipousuar": "cliente",
+            "codigo": "123456",
+            "compras": [],
+            "carrinho": [],
+            "listadesejos": []
+        },
+        {
+            "nome": "rafa",
+            "email": "rafa",
+            "senha": "rafa",
+            "regiao": "rafa",
+            "saldo": "rafa",
+            "tipousuar": "rafa",
+            "codigo": "rafa",
+            "compras": [],
+            "carrinho": [],
+            "listadesejos": []
+        },
+        {
+            "nome": "pedro",
+            "email": "pedro",
+            "senha": "pedro",
+            "regiao": "minecraft",
+            "saldo": "302",
+            "tipousuar": "cliente",
+            "codigo": "3232332",
+            "compras": [],
+            "carrinho": [],
+            "listadesejos": []
+        },
+        {
+            "nome": "1",
+            "email": "1",
+            "senha": "1",
+            "regiao": "1",
+            "saldo": "1",
+            "tipousuar": "1",
+            "codigo": "1",
+            "compras": [
+                {
+                    "categoria": "Eletr\u00f4nicos",
+                    "nome": "Notebook Ultra",
+                    "estado": "Novo",
+                    "valor": 3499.0,
+                    "loja": "CompStore",
+                    "qtd": "3"
+                },
+                {
+                    "categoria": "Moda e Acess\u00f3rios",
+                    "nome": "T\u00eanis Esportivo",
+                    "estado": "Novo",
+                    "valor": 299.99,
+                    "loja": "FashionHub",
+                    "qtd": "5"
+                },
+                {
+                    "categoria": "Moda e Acess\u00f3rios",
+                    "nome": "Bolsa de Couro",
+                    "estado": "Novo",
+                    "valor": 499.0,
+                    "loja": "StyleStore",
+                    "qtd": "3"
+                },
+                {
+                    "categoria": "Eletr\u00f4nicos",
+                    "nome": "Notebook Ultra",
+                    "estado": "Novo",
+                    "valor": 3499.0,
+                    "loja": "CompStore",
+                    "qtd": "4"
+                }
+            ],
+            "carrinho": [
+                {
+                    "categoria": "Casa e Decora\u00e7\u00e3o",
+                    "nome": "Lumin\u00e1ria Moderna",
+                    "estado": "Novo",
+                    "valor": 200.0,
+                    "loja": "DecorCenter",
+                    "qtd": 9
+                },
+                {
+                    "categoria": "Casa e Decora\u00e7\u00e3o",
+                    "nome": "Lumin\u00e1ria Moderna",
+                    "estado": "Novo",
+                    "valor": 200.0,
+                    "loja": "DecorCenter",
+                    "qtd": 9
+                },
+                {
+                    "categoria": "Casa e Decora\u00e7\u00e3o",
+                    "nome": "Lumin\u00e1ria Moderna",
+                    "estado": "Novo",
+                    "valor": 200.0,
+                    "loja": "DecorCenter",
+                    "qtd": 9
+                }
+            ],
+            "listadesejos": [
+                {
+                    "categoria": "Eletr\u00f4nicos",
+                    "nome": "Smartphone XYZ",
+                    "estado": "Novo",
+                    "valor": 1999.99,
+                    "loja": "TechStore",
+                    "qtd": 0
+                }
+            ]
+        }
+    ]
+}
